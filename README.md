@@ -1,4 +1,4 @@
-<p align="center"><img src="https://imgur.com/vHOstez" width="400"></p>
+<p align="center"><img src="https://i.imgur.com/vHOstez.png" width="400"></p>
 
 
 # Sales management OOP APP
