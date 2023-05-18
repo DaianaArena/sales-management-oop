@@ -25,7 +25,7 @@ Make sure your development environment meets the following requirements:
 
 ## Getting Started
 
-Open a command prompt or terminal and navigate to this project directory and write
+Open a command prompt or terminal and navigate to "java" directory and write
 
 ```
  javac app.java 
