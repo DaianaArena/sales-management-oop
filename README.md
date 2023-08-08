@@ -51,7 +51,8 @@ Open a command prompt or terminal and navigate to "java" directory and write
 
 📖 Display Books by Author: Empower users to filter the list of available books based on their preferred author. This feature allows customers to explore books specifically written by their favorite authors, promoting personalized recommendations and a tailored browsing experience.
 
-
+> [!IMPORTANT]  
+> There is more information about the project in the PDF file, such as diagrams and detailed features. You can find the file in the root of the repository.
 
 
 
